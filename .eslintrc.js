@@ -83,6 +83,7 @@ module.exports = {
     'react/jsx-uses-vars': 'error',
     'react/prop-types': 'off',
     'react/prefer-stateless-function': 'off',
+    'react/no-array-index-key': 'off',
 
     // react hooks
     'react-hooks/rules-of-hooks': 'error',
@@ -113,4 +114,4 @@ module.exports = {
       },
     ],
   },
-};
+}
